@@ -2,6 +2,7 @@ import turtle
 import time
 import random
 
+# initiliser un dépôt github
 
 
 delay = 0.1
